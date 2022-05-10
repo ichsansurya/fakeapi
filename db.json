@@ -1,0 +1,155 @@
+{
+    "best-products": [
+        {
+            "id": 1,
+            "nama": "Nasi Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "nasi-goreng.jpg"
+        },
+        {
+            "id": 2,
+            "nama": "Nasi Goreng Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "nasi-goreng-seafood.jpg"
+        },
+        {
+            "id": 3,
+            "nama": "Nasi Goreng Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "nasi-goreng-spesial.jpg"
+        },
+        {
+            "id": 4,
+            "nama": "Mie Goreng Biasa",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "mie-goreng.jpg"
+        },
+        {
+            "id": 5,
+            "nama": "Mie Goreng Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-goreng-seafood.jpg"
+        },
+        {
+            "id": 6,
+            "nama": "Mie Goreng Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-goreng-spesial.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "nama": "Nasi Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "nasi-goreng.jpg"
+        },
+        {
+            "id": 2,
+            "nama": "Nasi Goreng Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "nasi-goreng-seafood.jpg"
+        },
+        {
+            "id": 3,
+            "nama": "Nasi Goreng Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "nasi-goreng-spesial.jpg"
+        },
+        {
+            "id": 4,
+            "nama": "Mie Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "mie-goreng.jpg"
+        },
+        {
+            "id": 5,
+            "nama": "Mie Goreng Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-goreng-seafood.jpg"
+        },
+        {
+            "id": 6,
+            "nama": "Mie Goreng Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-goreng-spesial.jpg"
+        },
+        {
+            "id": 7,
+            "nama": "Mie Rebus",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "mie-rebus.jpg"
+        },
+        {
+            "id": 8,
+            "nama": "Mie Rebus Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-goreng-seafood.jpg"
+        },
+        {
+            "id": 9,
+            "nama": "Mie Rebus Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "mie-rebus-spesial.jpg"
+        },
+        {
+            "id": 10,
+            "nama": "Sate Ayam",
+            "harga": 18000,
+            "is_ready": true,
+            "img": "sate-ayam.jpg"
+        },
+        {
+            "id": 11,
+            "nama": "Kwetiau Goreng",
+            "harga": 13000,
+            "is_ready": true,
+            "img": "kwetiau-goreng.jpg"
+        },
+        {
+            "id": 12,
+            "nama": "Kwetiau Goreng Seafood",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "kwetiau-goreng-seafood.jpg"
+        },
+        {
+            "id": 13,
+            "nama": "Kwetiau Goreng Spesial",
+            "harga": 15000,
+            "is_ready": true,
+            "img": "kwetiau-goreng-spesial.jpg"
+        },
+        {
+            "id": 14,
+            "nama": "Cah Kangkung",
+            "harga": 16000,
+            "is_ready": true,
+            "img": "cah-kangkung.jpg"
+        },
+        {
+            "id": 15,
+            "nama": "Fuyunghai",
+            "harga": 18000,
+            "is_ready": true,
+            "img": "fuyunghai.jpg"
+        }
+    ],
+    "keranjangs":[],
+    "pesanans":[]
+}
